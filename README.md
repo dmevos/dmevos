@@ -6,6 +6,7 @@
 - Java. [Конвертер текстовой графики](https://github.com/dmevos/TextGraphics.git)
 - Java. [Сетевой чат](https://github.com/dmevos/TH_NetworkChat.git)
 - Java. [Сервис перевода денег](https://github.com/dmevos/MoneyTransfer.git)
+- Java. [Spring Boot приложение для библиотек](https://github.com/dmevos/Library.git)
 
 ### Сертификаты Нетологии
 - [Основы разработки на Java](https://github.com/dmevos/Cert/blob/main/00_ОсновыРазоаботкиJava.pdf)
