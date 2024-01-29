@@ -8,6 +8,8 @@
 - Java. [Сервис перевода денег](https://github.com/dmevos/MoneyTransfer.git)
 - Java. [Spring Boot приложение для библиотек](https://github.com/dmevos/Library.git)
 - Java. [Облачное хранилище](https://github.com/dmevos/CloudStorage.git)
+  
+- Visual Basic .NET [ГЕОДЕЗИЯ. Подстройка файлов локализации после смены координат базовой станции](https://github.com/dmevos/ReCalcBaza.git)
 
 ### Сертификаты Нетологии
 - [Основы разработки на Java](https://github.com/dmevos/Cert/blob/main/00_ОсновыРазоаботкиJava.pdf)
