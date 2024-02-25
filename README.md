@@ -11,6 +11,10 @@
   
 - Visual Basic .NET [ГЕОДЕЗИЯ. Подстройка файлов локализации после смены координат базовой станции](https://github.com/dmevos/ReCalcBaza.git)
 
+### Сертификаты
+- [Автоматизация в проектировании]("https://github.com/dmevos/Cert/Сертификат-Автоматизация_в_проектировании.pdf")
+
+
 ### Сертификаты Нетологии
 - [Основы разработки на Java](https://github.com/dmevos/Cert/blob/main/00_ОсновыРазоаботкиJava.pdf)
 - [Английский для программистов](https://github.com/dmevos/Cert/blob/main/01_English.pdf)
